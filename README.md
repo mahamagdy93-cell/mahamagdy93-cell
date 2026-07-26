@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Maha Magdy Banner" width="100%">
+</p>
 # Maha Magdy
 
 **Power BI Developer | Data Analyst | GIS Specialist**
